@@ -2,4 +2,4 @@
 
 My Github repository for Holberton
 
-I love :cars: :motorcycles: :airplanes:, and :working out:.
+I love cars, motorcycles, airplanes and working out.
